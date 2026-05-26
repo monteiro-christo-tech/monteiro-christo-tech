@@ -12,8 +12,8 @@
 # 👨‍💻 Sobre mim
 
 -🔭 Sem trabalho, mas futuramente técnico! <br>
--👯 Procura colaborar com grandes empresas. <br>
--🤝 Procuro ajuda em aprender novsas linguagens de programação. <br>
+-👯 Procuro colaborar com grandes empresas. <br>
+-🤝 Procuro ajuda em aprender novas linguagens de programação. <br>
 -🌱 Cursando Informática para Internet. <br>
 -⚡ Gosto muito de técnologia, sonho em ser criador de jogos. 
 
