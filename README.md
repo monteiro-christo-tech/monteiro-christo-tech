@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou João Victor😊</h1>
 
-<!--
-**monteiro-christo-tech/monteiro-christo-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante e fascinado por tecnologia <br>
+🚀 Aprendendo informática para Internet <br>
+🎯 Atrás de evoluir sempre que possível
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 Sobre mim
+
+-🔭 Sem trabalho, mas futuramente técnico! <br>
+-👯 Procura colaborar com grandes empresas. <br>
+-🤝 Procuro ajuda em aprender novsas linguagens de programação. <br>
+-🌱 Cursando Informática para Internet. <br>
+-⚡ Gosto muito de técnologia, sonho em ser criador de jogos. 
+
+---
+
+# 🚀 Tecnologias que sei usar
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+
+<h1 align="justify">🛠️ Tecnologias</h1>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
