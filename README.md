@@ -35,6 +35,17 @@
   <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+---
+
+<h2> 🌐 Contato </h2>
+
+<p align="center">
+
+<a href="https://github.com/monteiro-christo-tech">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+
 
 <h1 align="justify">🛠️ Tecnologias</h1>
 
