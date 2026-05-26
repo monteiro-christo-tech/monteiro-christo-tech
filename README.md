@@ -50,8 +50,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-
-
-<h1 align="justify">🛠️ Tecnologias</h1>
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<a href="mailto:calebebarros108@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
