@@ -49,6 +49,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="mailto: jvictormc2010@gmail.com">
+<a href="mailto:jvictormc2010@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
