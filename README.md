@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="ChatGPT Image 26 de mai  de 2026, 11_22_49" src="https://github.com/user-attachments/assets/61f72f3a-7508-41a6-b2e9-ffb15c7f482d" />
 <h1 align="center">Olá! Eu sou João Victor😊</h1>
 
 <p align="center">
