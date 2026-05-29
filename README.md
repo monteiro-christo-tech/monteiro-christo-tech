@@ -15,7 +15,7 @@
 -👯 Procuro colaborar com grandes empresas. <br>
 -🤝 Procuro ajuda para aprender novas linguagens de programação. <br>
 -🌱 Cursando Informática para Internet. <br>
--⚡ Gosto muito de técnologia, sonho em ser criador de jogos. 
+-⚡ Além de programção, gosto muito de jogar jogos online e praticar esportes. 
 
 ---
 
