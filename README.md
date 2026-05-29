@@ -13,7 +13,7 @@
 
 -🔭 Sem trabalho, mas futuramente técnico em informática. <br>
 -👯 Procuro colaborar com grandes empresas. <br>
--🤝 Procuro ajuda em aprender novas linguagens de programação. <br>
+-🤝 Procuro ajuda para aprender novas linguagens de programação. <br>
 -🌱 Cursando Informática para Internet. <br>
 -⚡ Gosto muito de técnologia, sonho em ser criador de jogos. 
 
