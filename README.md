@@ -37,8 +37,7 @@
 
 <p align="center">
   <img src="https://github.com/monteiro-christo-tech
-/monteiro-christo-tech
-s/blob/output/github-contribution-grid-snake-dark.svg">
+/monteiro-christo-tech/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
