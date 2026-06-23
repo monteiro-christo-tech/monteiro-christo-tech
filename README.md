@@ -9,6 +9,29 @@
 
 ---
 
+<h1 align="center"> 💳 Certificados</h1>
+
+<div align="center">
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
+    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
+    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
+</a>
+</div>
+
+---
+
 # 👨‍💻 Sobre mim
 
 -🔭 Sem trabalho, mas futuramente técnico em informática. <br>
@@ -32,8 +55,6 @@
 </p>
 
 ---
-
-
 
 <p align="center">
   <img src="https://github.com/Calebe-barros/Calebe-barros/blob/output/github-contribution-grid-snake-dark.svg">
