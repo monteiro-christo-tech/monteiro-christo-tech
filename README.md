@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/f0a2f72f22ewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTU1NDEyUkVHIgp942ee74761a-10">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/b6800e6e75ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTU1NDEyUkVHIgp90189b42c8d-10">
     <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
 </a>
 
