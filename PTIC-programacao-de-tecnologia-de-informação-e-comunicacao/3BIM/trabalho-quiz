@@ -1,0 +1,74 @@
+"""
+Autor:  Miguel Silva, Sacheto João Victor Monteiro Christo, Davi de Sousa Melo, Noah Calixto Moi
+Data: agosto/2026
+Descrição: vc coloca um numero e ele conta de 1 ate esse numero
+"""
+nota = 0
+erros = 0
+#questao 1, voce responde com o numero referente a resposta e se acertar adiciona 1 na nota, se errar adiciona 1 nos erros
+questao1=int(input("O que significa a sigla HTML? (responda com 1 2 3 ou 4)\n"
+    "1 HyperText Markup Language\n"
+    "2 High Tech Modern Language \n"
+    "3 Hyperlinks and Text Markup Language\n"
+    "4 Home Tool Markup Language\n"
+))
+if questao1 == 1:
+    print("voce acertou (+1 ponto)")
+    nota += 1
+else:
+    print("voce errou")
+    erros += 1
+#questao 2
+questao2=int(input("Qual tag HTML é usada para criar um link? (responda com 1 2 3 ou 4)\n"
+    "1 <url>\n"
+    "2 <link> \n"
+    "3 <a> \n"
+    "4 <href>\n"
+))
+if questao2 == 3:
+    print("voce acertou (+1 ponto)")
+    nota += 1
+else:
+    print("voce errou")
+    erros += 1
+#questao 3
+questao3=int(input("Em CSS, qual propriedade é usada para mudar a cor do texto? (responda com 1 2 3 ou 4)\n"
+    "1 font-color\n"
+    "2 text-style \n"
+    "3 color\n"
+    "4 text-color\n"
+))
+if questao3 == 3:
+    print("voce acertou (+1 ponto)")
+    nota += 1
+else:
+    print("voce errou")
+    erros += 1
+#questao 4
+questao4=int(input("Qual seletor CSS é usado para selecionar um elemento pelo seu id?\n"
+    "1 @\n"
+    "2 # \n"
+    "3 * \n"
+    "4 &\n"
+))
+if questao4 == 2:
+    print("voce acertou (+1 ponto)")
+    nota += 1
+else:
+    print("voce errou")
+    erros += 1
+#questao 5
+questao5=int(input("Qual tag HTML é usada para o item de maior destaque (título principal) de uma página?\n"
+    "1 <header>\n"
+    "2 <title> \n"
+    "3 <h1>\n"
+    "4 <head>\n"
+))
+if questao5 == 3:
+    print("voce acertou (+1 ponto)")
+    nota += 1
+else:
+    print("voce errou")
+    erros += 1
+print(f"voce acertou {nota}/5 \n"
+    f"e teve {erros} erros" )
