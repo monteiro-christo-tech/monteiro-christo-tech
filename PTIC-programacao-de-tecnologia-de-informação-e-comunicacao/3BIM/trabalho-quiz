@@ -1,11 +1,17 @@
 """
-Autor:  Miguel Silva, Sacheto João Victor Monteiro Christo, Davi de Sousa Melo, Noah Calixto Moi
+Autor:  Miguel Silva Sacheto, João Victor Monteiro Christo, Davi de Sousa Melo, Noah Calixto Moi
 Data: agosto/2026
 Descrição: vc coloca um numero e ele conta de 1 ate esse numero
 """
 nota = 0
 erros = 0
 #questao 1, voce responde com o numero referente a resposta e se acertar adiciona 1 na nota, se errar adiciona 1 nos erros
+nome=(input("Olá, tudo bem? Digite seu nome: "))
+print("Boa sorte,", nome)
+
+print ("                 |===================|")
+print ("                 |    QUIZ DE HTML   |")
+print ("                 |===================|")
 questao1=int(input("O que significa a sigla HTML? (responda com 1 2 3 ou 4)\n"
     "1 HyperText Markup Language\n"
     "2 High Tech Modern Language \n"
@@ -13,10 +19,10 @@ questao1=int(input("O que significa a sigla HTML? (responda com 1 2 3 ou 4)\n"
     "4 Home Tool Markup Language\n"
 ))
 if questao1 == 1:
-    print("voce acertou (+1 ponto)")
+    print("Você acertou! (+1 ponto)")
     nota += 1
 else:
-    print("voce errou")
+    print("Você errou.")
     erros += 1
 #questao 2
 questao2=int(input("Qual tag HTML é usada para criar um link? (responda com 1 2 3 ou 4)\n"
@@ -26,10 +32,10 @@ questao2=int(input("Qual tag HTML é usada para criar um link? (responda com 1 2
     "4 <href>\n"
 ))
 if questao2 == 3:
-    print("voce acertou (+1 ponto)")
+    print("Você acertou! (+1 ponto)")
     nota += 1
 else:
-    print("voce errou")
+    print("Você errou.")
     erros += 1
 #questao 3
 questao3=int(input("Em CSS, qual propriedade é usada para mudar a cor do texto? (responda com 1 2 3 ou 4)\n"
@@ -39,10 +45,10 @@ questao3=int(input("Em CSS, qual propriedade é usada para mudar a cor do texto?
     "4 text-color\n"
 ))
 if questao3 == 3:
-    print("voce acertou (+1 ponto)")
+    print("Você acertou! (+1 ponto)")
     nota += 1
 else:
-    print("voce errou")
+    print("Você errou.")
     erros += 1
 #questao 4
 questao4=int(input("Qual seletor CSS é usado para selecionar um elemento pelo seu id?\n"
@@ -52,10 +58,10 @@ questao4=int(input("Qual seletor CSS é usado para selecionar um elemento pelo s
     "4 &\n"
 ))
 if questao4 == 2:
-    print("voce acertou (+1 ponto)")
+    print("Você acertou! (+1 ponto)")
     nota += 1
 else:
-    print("voce errou")
+    print("Você errou.")
     erros += 1
 #questao 5
 questao5=int(input("Qual tag HTML é usada para o item de maior destaque (título principal) de uma página?\n"
@@ -65,10 +71,11 @@ questao5=int(input("Qual tag HTML é usada para o item de maior destaque (títul
     "4 <head>\n"
 ))
 if questao5 == 3:
-    print("voce acertou (+1 ponto)")
+    print("Você acertou! (+1 ponto)")
     nota += 1
 else:
-    print("voce errou")
+    print("Você errou.")
     erros += 1
+print("Parábens!", nome)
 print(f"voce acertou {nota}/5 \n"
     f"e teve {erros} erros" )
